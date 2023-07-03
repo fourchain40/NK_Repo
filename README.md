@@ -1,5 +1,5 @@
 # Repository - Ninaad Kundu
-Personal Projects:
+Personal Projects and Files Breakdown:
 
 Cell_Segmentation.ipynb - Used the Mahotas library in Python to develop a cell segmenting program to extract coordinates of nuclei given samples of cellular interactions using Gaussian filtering and labeling
 
