@@ -7,3 +7,5 @@ Netlogo_Initation.png, Netlogo_SS_Before.png, Netlogo_SS_After.png - Collaborate
 
 DB_Manager.java, JavaFXNew.java - Worked with two other students to develop a course review system using JavaFX GUI and SQL, as well as presentation, business logic, and data layers following traditional course review site functionalities.
 
+Course_Review_Video.mov - Showcases the functionalities of the course review system as described above.
+
