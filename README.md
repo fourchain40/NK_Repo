@@ -7,7 +7,7 @@ Cell_Segmentation.ipynb - Developed a cell segmenting program in Python using th
 Netlogo_Initation.png, Netlogo_SS_Before.png, Netlogo_SS_After.png - Co-developed an Agent-Based Model of Cardiac Regeneration after Myocardial Infarction in Netlogo, contributing to research in treating Myocardial Infarction. Demonstrated a strong grasp of complex medical concepts and modeling techniques.
 
 
-DB_Manager.java, JavaFXNew.java - Developed a JavaFX GUI course review system, collaborating in designing and implementing presentation, business logic, and data layers for the project, as well as using SQL for data manipulation.
+DB_Manager.java - Developed a JavaFX GUI course review system, collaborating in designing and implementing presentation, business logic, and data layers for the project, as well as using SQL for data manipulation.
 
 Course_Review_Video.mov - Showcases the functionalities of the course review system as described above.
 
