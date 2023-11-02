@@ -11,5 +11,5 @@ DB_Manager.java - Developed a JavaFX GUI course review system, collaborating in 
 
 Course_Review_Video.mov - Showcases the functionalities of the course review system as described above.
 
-Implementation and Application of Graph and other Algorithms - Implemented Graph data structure using adjacency matrix and adjacency list. Implemented BFS, DFS, Topo. Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow algorithms. Applied algorithms to various problems provided by professor.
+Implementation and Application of Graph and other Algorithms - Implemented Graph data structure using adjacency matrix and adjacency list. Implemented BFS, DFS, Topo. Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow algorithms. Applied algorithms to various problems provided by professor. Also includes Greedy, Dynamic Programming, and Divide and Conquer algorithms.
 
