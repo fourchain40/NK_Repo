@@ -99,45 +99,6 @@ public class BoardGames {
             visited.remove(visited.size() - 1);
         }
     }
-
-    static class Node {
-        String label;
-        String color;
-        int d;
-        int f;
-        Node pi;
-
-        Node(String label) {
-            this.label = label;
-        }
-
-        @Override
-        public boolean equals(Object obj) {
-            if (this == obj)
-                return true;
-            if (obj == null)
-                return false;
-            if (getClass() != obj.getClass())
-                return false;
-            Node other = (Node) obj;
-            return Objects.equals(label, other.label);
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(label);
-        }
-
-        public int compareTo(Node another) {
-            int num = Integer.valueOf(label);
-            int num1 = Integer.valueOf(another.label);
-            if (num < num1) {
-                return -1;
-            } else if (num > num1) {
-                return 1;
-            } else {
-                return 0;
-            }
-        }
-    }
 }
+
+    
