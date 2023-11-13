@@ -23,7 +23,7 @@ Implementation and Application of Graph and other Algorithms<br/>
 • Applied algorithms to various problems provided by professor<br/>
 • Also includes Greedy, Dynamic Programming, and Divide and Conquer algorithms<br/>
 
-UVACache (Work in Progess)<br/>
+UVACache (Work in Progress)<br/>
 • Developed a dynamic, geocaching web application tailored to the UVA student community, hosted on Heroku and powered by Django as the backend framework<br/>
 • Integrated Google OAuth and Google Maps API, providing a feature-rich user experience while ensuring secure access to the platform<br/>
 • Utilized DevOps practices to automate deployment and ensure continuous integration, enhancing the project’s reliability and reducing downtime for a seamless user experience<br/>
