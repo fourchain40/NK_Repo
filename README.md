@@ -20,7 +20,8 @@ Course_Review<br/>
 Implementation and Application of Graph and other Algorithms<br/>
 • Implemented Graph data structure using adjacency matrix and adjacency list<br/>
 • Implemented BFS, DFS, Topo. Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow algorithms<br/>
-• Applied algorithms to various problems provided by professor. Also includes Greedy, Dynamic Programming, and Divide and Conquer algorithms<br/>
+• Applied algorithms to various problems provided by professor<br/>
+• Also includes Greedy, Dynamic Programming, and Divide and Conquer algorithms<br/>
 
 UVACache<br/>
 • Developed a dynamic, geocaching web application tailored to the UVA student community, hosted on Heroku and powered by Django as the backend framework<br/>
