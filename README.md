@@ -32,3 +32,12 @@ Visualizing LEGO Data<br/>
 • Developed an interactive data visualization Shiny App in R to explore trends in LEGO set sales using the ggplot2, plotly, and ggwordcloud packages<br/>
 • Cleaned and preprocessed the LEGO dataset, addressing missing values and transforming variables for effective analysis<br/>
 • Implemented features such as dynamic theme word clouds, breakdowns by theme, and manufacturing brush plots for user interaction<br/>
+
+## Other Projects
+
+
+### 1. [Predicting Coronary Heart Disease (CHD)](https://github.com/thaonguyyen/project_chd)
+**Purpose:** This project explored different machine learning models, including linear regression, K-Nearest Neighbors (KNN), and decision trees, to predict the likelihood of coronary heart disease (CHD). The goal was to investigate socio-economic factors, such as education, in relation to heart disease risk. Our research was aimed at an academic audience, such as professors and peers in the machine learning field, and conveyed the message that machine learning can predict health outcomes.
+
+### 2. [Predicting the Outcome of the 2024 Presidential Election in Virginia](https://github.com/gaboojie/project_voting)
+**Purpose:** This project used machine learning to forecast voting outcomes at the county level in Virginia, leveraging historical voting and demographic data. It provided insights into voting trends, voter turnout, and party distribution across counties, showing how data-driven approaches can be applied to political science and election forecasting.
