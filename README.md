@@ -41,3 +41,6 @@ Visualizing LEGO Data<br/>
 
 ### 2. [Predicting the Outcome of the 2024 Presidential Election in Virginia](https://github.com/gaboojie/project_voting)
 **Purpose:** This project used machine learning to forecast voting outcomes at the county level in Virginia, leveraging historical voting and demographic data. It provided insights into voting trends, voter turnout, and party distribution across counties, showing how data-driven approaches can be applied to political science and election forecasting.
+
+### 3. [Presidential Sentiment Analysis](https://github.com/bwillow1222/ds4002MI3P1)
+**Purpose:** This project involved analyzing the sentiment in speeches from the 2024 U.S. presidential race, including a debate, Donald Trump's rally speech in Wisconsin, and Kamala Harris's rally speech in Philadelphia. Using Python algorithms, we processed and classified rhetoric by sentiment, with the goal of exploring political messaging and how sentiment plays a role in influencing voter perception.
