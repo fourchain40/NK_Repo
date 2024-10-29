@@ -44,3 +44,8 @@ Visualizing LEGO Data<br/>
 
 ### 3. [Presidential Sentiment Analysis](https://github.com/bwillow1222/ds4002MI3P1)
 **Purpose:** This project involved analyzing the sentiment in speeches from the 2024 U.S. presidential race, including a debate, Donald Trump's rally speech in Wisconsin, and Kamala Harris's rally speech in Philadelphia. Using Python algorithms, we processed and classified rhetoric by sentiment, with the goal of exploring political messaging and how sentiment plays a role in influencing voter perception.
+
+### 4. [Sports Viewership Analysis Post-COVID](https://github.com/bwillow1222/ds4002MI3P2)
+**Purpose:** This project analyzed how the COVID-19 pandemic impacted viewership trends across major American sports leagues, specifically the NFL, NBA, MLB, and NHL. Using double exponential smoothing, we forecasted viewership for each league and compared it with actual data to assess recovery patterns. The goal was to determine whether viewership has returned to pre-pandemic levels, providing insights for sports analysts, broadcasters, and league stakeholders into how audience engagement in professional sports has shifted post-COVID.
+
+
