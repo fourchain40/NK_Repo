@@ -1,4 +1,21 @@
 # Repository - Ninaad Kundu
+Personal Projects and Files Breakdown:
+
+Cell Segmentation<br/>
+This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
+
+Cardiac Regeneration Model<br/>
+In this project, an Agent-Based Model of Cardiac Regeneration after Myocardial Infarction was co-developed using NetLogo. The model contributes to ongoing research in Myocardial Infarction treatment, reflecting a deep understanding of complex medical concepts and the application of advanced modeling techniques to simulate cardiac regeneration processes.
+
+
+Course_Review<br/>
+This project involved the development of a comprehensive course review system using JavaFX. Contributions spanned the presentation, business logic, and data layers, creating a user-friendly interface and smooth system functionality. SQL was utilized for efficient data manipulation, while Git version control and code review processes facilitated collaboration and maintained codebase integrity throughout the project lifecycle.
+
+Implementation and Application of Graph and other Algorithms<br/>
+This project explores fundamental graph theory concepts and algorithmic problem-solving. It includes the implementation of graph data structures using adjacency matrices and adjacency lists, as well as key algorithms such as BFS, DFS, Topological Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow. Additionally, various problems provided by a professor were solved using Greedy, Dynamic Programming, and Divide and Conquer algorithms.
+
+Visualizing LEGO Data<br/>
+This project features the development of an interactive Shiny App in R to visualize trends in LEGO set sales. Leveraging ggplot2, plotly, and ggwordcloud packages, the app provides dynamic features such as theme-based word clouds, breakdowns by theme, and manufacturing brush plots for enhanced user interaction. The LEGO dataset was meticulously cleaned and preprocessed to address missing values and transform variables, ensuring effective analysis and a smooth user experience.
 ## Other Projects
 
 
@@ -16,32 +33,3 @@
 
 ### 5. [Pet Breed Classification](https://github.com/bwillow1222/ds4002MI3P3)
 **Purpose:** This project focused on developing a machine learning-powered tool to classify cat and dog breeds from images, aimed at assisting adoption centers. Using the Oxford-IIIT Pet Dataset, the team trained a pre-trained convolutional neural network (ResNet50) to accurately classify 37 breeds of cats and dogs. The approach included transfer learning, data augmentation, and iterative model refinement. The goal was to create a robust, generalizable model that could support adoption centers in identifying pet breeds, which plays a role in matching pets with prospective adopters.
-
-Personal Projects and Files Breakdown:
-
-Cell_Segmentation<br/>
-• Designed and implemented a Python-based cell segmentation program using the Mahotas library<br/>
-• Achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions<br/>
-• Implemented advanced Gaussian filtering and labeling techniques, significantly enhancing the accuracy of the segmentation process<br/>
-
-
-Cardiac_Regeneration_Model<br/>
-• Co-developed an Agent-Based Model of Cardiac Regeneration after Myocardial Infarction in NetLogo, contributing to research in Myocardial Infarction treatment<br/>
-• Demonstrated a deep understanding of complex medical concepts and advanced modeling techniques<br/>
-
-
-Course_Review<br/>
-• Developed a comprehensive JavaFX GUI-based course review system, contributing to its presentation, business logic, and data layers<br/>
-• Leveraged SQL for data manipulation tasks, ensuring efficient data management within the system<br/>
-• Actively participated in regular Git version control and code review processes, promoting collaboration and maintaining codebase integrity throughout the project<br/>
-
-Implementation and Application of Graph and other Algorithms<br/>
-• Implemented Graph data structure using adjacency matrix and adjacency list<br/>
-• Implemented BFS, DFS, Topo. Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow algorithms<br/>
-• Applied algorithms to various problems provided by professor<br/>
-• Also includes Greedy, Dynamic Programming, and Divide and Conquer algorithms<br/>
-
-Visualizing LEGO Data<br/>
-• Developed an interactive data visualization Shiny App in R to explore trends in LEGO set sales using the ggplot2, plotly, and ggwordcloud packages<br/>
-• Cleaned and preprocessed the LEGO dataset, addressing missing values and transforming variables for effective analysis<br/>
-• Implemented features such as dynamic theme word clouds, breakdowns by theme, and manufacturing brush plots for user interaction<br/>
