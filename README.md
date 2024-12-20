@@ -1,20 +1,20 @@
 # Repository - Ninaad Kundu
 Projects Breakdown:
 
-Cell Segmentation<br/>
+## Cell Segmentation
 This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
 
-Cardiac Regeneration Model<br/>
+## Cardiac Regeneration Model
 In this project, an Agent-Based Model of Cardiac Regeneration after Myocardial Infarction was co-developed using NetLogo. The model contributes to ongoing research in Myocardial Infarction treatment, reflecting a deep understanding of complex medical concepts and the application of advanced modeling techniques to simulate cardiac regeneration processes.
 
 
-Course Review<br/>
+## Course Review
 This project involved the development of a comprehensive course review system using JavaFX. Contributions spanned the presentation, business logic, and data layers, creating a user-friendly interface and smooth system functionality. SQL was utilized for efficient data manipulation, while Git version control and code review processes facilitated collaboration and maintained codebase integrity throughout the project lifecycle.
 
-Implementation and Application of Graph and other Algorithms<br/>
+## Implementation and Application of Graph and other Algorithms
 This project explores fundamental graph theory concepts and algorithmic problem-solving. It includes the implementation of graph data structures using adjacency matrices and adjacency lists, as well as key algorithms such as BFS, DFS, Topological Sort, Dijkstra’s, Prim’s, Kruskal’s, and Max-Flow. Additionally, various problems provided by a professor were solved using Greedy, Dynamic Programming, and Divide and Conquer algorithms.
 
-Visualizing LEGO Data<br/>
+## Visualizing LEGO Data
 This project features the development of an interactive Shiny App in R to visualize trends in LEGO set sales. Leveraging ggplot2, plotly, and ggwordcloud packages, the app provides dynamic features such as theme-based word clouds, breakdowns by theme, and manufacturing brush plots for enhanced user interaction. The LEGO dataset was meticulously cleaned and preprocessed to address missing values and transform variables, ensuring effective analysis and a smooth user experience.
 ## Other Projects
 
