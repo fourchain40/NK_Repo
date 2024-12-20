@@ -14,6 +14,8 @@
 ### 4. [Sports Viewership Analysis Post-COVID](https://github.com/bwillow1222/ds4002MI3P2)
 **Purpose:** This project analyzed how the COVID-19 pandemic impacted viewership trends across major American sports leagues, specifically the NFL, NBA, MLB, and NHL. Using double exponential smoothing, we forecasted viewership for each league and compared it with actual data to assess recovery patterns. The goal was to determine whether viewership has returned to pre-pandemic levels, providing insights for sports analysts, broadcasters, and league stakeholders into how audience engagement in professional sports has shifted post-COVID.
 
+### 5. [Pet Breed Classification](https://github.com/bwillow1222/ds4002MI3P3)
+**Purpose:** This project focused on developing a machine learning-powered tool to classify cat and dog breeds from images, aimed at assisting adoption centers. Using the Oxford-IIIT Pet Dataset, the team trained a pre-trained convolutional neural network (ResNet50) to accurately classify 37 breeds of cats and dogs. The approach included transfer learning, data augmentation, and iterative model refinement. The goal was to create a robust, generalizable model that could support adoption centers in identifying pet breeds, which plays a role in matching pets with prospective adopters.
 
 Personal Projects and Files Breakdown:
 
