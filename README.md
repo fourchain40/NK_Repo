@@ -1,5 +1,5 @@
 # Repository - Ninaad Kundu
-Personal Projects and Files Breakdown:
+Projects Breakdown:
 
 Cell Segmentation<br/>
 This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
@@ -8,7 +8,7 @@ Cardiac Regeneration Model<br/>
 In this project, an Agent-Based Model of Cardiac Regeneration after Myocardial Infarction was co-developed using NetLogo. The model contributes to ongoing research in Myocardial Infarction treatment, reflecting a deep understanding of complex medical concepts and the application of advanced modeling techniques to simulate cardiac regeneration processes.
 
 
-Course_Review<br/>
+Course Review<br/>
 This project involved the development of a comprehensive course review system using JavaFX. Contributions spanned the presentation, business logic, and data layers, creating a user-friendly interface and smooth system functionality. SQL was utilized for efficient data manipulation, while Git version control and code review processes facilitated collaboration and maintained codebase integrity throughout the project lifecycle.
 
 Implementation and Application of Graph and other Algorithms<br/>
