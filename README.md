@@ -1,6 +1,4 @@
 # Repository - Ninaad Kundu
-Projects Breakdown:
-
 ## Cell Segmentation
 This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
 
