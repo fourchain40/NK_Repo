@@ -19,7 +19,7 @@ Welcome to my project repository! This collection highlights a variety of projec
 ### 5. [Pet Breed Classification](https://github.com/bwillow1222/ds4002MI3P3)
 **Purpose:** This project focused on developing a machine learning-powered tool to classify cat and dog breeds from images, aimed at assisting adoption centers. Using the Oxford-IIIT Pet Dataset, the team trained a pre-trained convolutional neural network (ResNet50) to accurately classify 37 breeds of cats and dogs. The approach included transfer learning, data augmentation, and iterative model refinement. The goal was to create a robust, generalizable model that could support adoption centers in identifying pet breeds, which plays a role in matching pets with prospective adopters.
 
-## Archived / Older Projects
+## Other Projects
 
 ## Cell Segmentation
 This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
