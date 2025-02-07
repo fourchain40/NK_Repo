@@ -1,7 +1,6 @@
 # Repository - Ninaad Kundu
 
-Welcome to my project repository! This repository contains older projects that I've worked on earlier in my academic and professional journey. For my most recent and impactful work, check out the **four featured projects** on my [website](naadkundu.com). 
-
+Welcome to my project repository! This repository contains older projects that I've worked on earlier in my academic and professional journey.
 ## Recent Projects
 
 These projects were added more recently and showcase a variety of data science applications:
