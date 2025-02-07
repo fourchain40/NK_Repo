@@ -1,9 +1,8 @@
 # Repository - Ninaad Kundu
 
-Welcome to my project repository! This repository contains older projects that I've worked on earlier in my academic and professional journey.
-## Recent Projects
+Welcome to my project repository! This collection highlights a variety of projects showcasing my experience in software engineering, data science, and algorithmic problem-solving.
 
-These projects were added more recently and showcase a variety of data science applications:
+## Recent Projects
 
 ### 1. [Predicting Coronary Heart Disease (CHD)](https://github.com/thaonguyyen/project_chd)
 **Purpose:** This project explored different machine learning models, including linear regression, K-Nearest Neighbors (KNN), and decision trees, to predict the likelihood of coronary heart disease (CHD). The goal was to investigate socio-economic factors, such as education, in relation to heart disease risk. Our research was aimed at an academic audience, such as professors and peers in the machine learning field, and conveyed the message that machine learning can predict health outcomes.
@@ -21,7 +20,6 @@ These projects were added more recently and showcase a variety of data science a
 **Purpose:** This project focused on developing a machine learning-powered tool to classify cat and dog breeds from images, aimed at assisting adoption centers. Using the Oxford-IIIT Pet Dataset, the team trained a pre-trained convolutional neural network (ResNet50) to accurately classify 37 breeds of cats and dogs. The approach included transfer learning, data augmentation, and iterative model refinement. The goal was to create a robust, generalizable model that could support adoption centers in identifying pet breeds, which plays a role in matching pets with prospective adopters.
 
 ## Archived / Older Projects
-The following projects represent earlier work and provide additional insights into my experience with different technologies:
 
 ## Cell Segmentation
 This project focuses on the design and implementation of a Python-based cell segmentation program utilizing the Mahotas library. The system achieved a 75% precision rate in accurately extracting nucleus coordinates in cellular interactions. Advanced Gaussian filtering and labeling techniques were incorporated, significantly enhancing the segmentation process's accuracy and reliability.
